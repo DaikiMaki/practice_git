@@ -128,5 +128,8 @@
                 </div>
             </div>
         </div>
+        <footer>
+            sample footer
+        </footer>
     </body>
 </html>
